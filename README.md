@@ -3,6 +3,8 @@
  
 [Demo.ipynb](./demo.ipynb)
 
+the full volleyball footage used in the demo is 1 hr long, so I can't upload it to GH. update the path to the other video available
+
 
 [Link to Background Subtraction Final Report](./Background_Subtraction_Final_Report.pdf)
 
