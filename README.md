@@ -1,5 +1,7 @@
 ﻿# BallDetection
+ 
 
+![grid demo](./output_background_subtraction.gif)
  
 [Demo.ipynb](./demo.ipynb)
 
